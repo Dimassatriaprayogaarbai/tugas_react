@@ -161,24 +161,24 @@ export default function Kondisi() {
 // );
 
 // soal nomer 10
-let usiaPenonton = 15;
+// let usiaPenonton = 15;
 
-let kategori;
+// let kategori;
 
-if (usiaPenonton < 13) {
-  kategori = "Kategori: Semua Umur (SU)";
-} else if (usiaPenonton >= 13 && usiaPenonton <= 17) {
-  kategori = "Kategori: Remaja (R)";
-} else {
-  kategori = "Kategori: Dewasa (D)";
-}
+// if (usiaPenonton < 13) {
+//   kategori = "Kategori: Semua Umur (SU)";
+// } else if (usiaPenonton >= 13 && usiaPenonton <= 17) {
+//   kategori = "Kategori: Remaja (R)";
+// } else {
+//   kategori = "Kategori: Dewasa (D)";
+// }
 
-console.log("SOAL 10");
-console.log(kategori);
+// console.log("SOAL 10");
+// console.log(kategori);
 
-return (
-  <View>
-    <Text>{kategori}</Text>
-  </View>
-);
+// return (
+//   <View>
+//     <Text>{kategori}</Text>
+//   </View>
+// );
 }

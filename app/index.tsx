@@ -4,7 +4,9 @@ import { Text, View } from "react-native";
 import Var from "./Var";
 import Opacity from "./opacity";
 import Array from "./Array";
-import Kondisi from "./Kondisi"
+import Kondisi from "./Kondisi";
+import Fungsi from "./Fungsi";
+import Loop from "./Loop"
 
 export default function Index() {
 
@@ -20,6 +22,8 @@ export default function Index() {
      <Opacity/>
      <Array/>
      <Kondisi/>
+     <Fungsi/>
+     <Loop/>
 
     </View>
   );
