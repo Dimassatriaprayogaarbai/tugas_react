@@ -31,11 +31,11 @@ export default function Array() {
 // );
 
 // soal nomer 3
-let antreanVaksin = [];
+// let antreanVaksin = [];
 
-antreanVaksin.push("Andi");
-antreanVaksin.push("Budi");
-antreanVaksin.push("Siti");
+// antreanVaksin.push("Andi");
+// antreanVaksin.push("Budi");
+// antreanVaksin.push("Siti");
 
 // let pasienDilayani = antreanVaksin.pop();
 

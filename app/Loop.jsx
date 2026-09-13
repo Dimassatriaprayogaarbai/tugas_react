@@ -4,9 +4,9 @@ import { Text, View } from "react-native";
 export default function Loop() {
 
       // SOAL LOOP NO 1 
-    for (let Tiket = 1; Tiket <= 8; Tiket++) {
-        console.log("Tiket Antrean No: " + Tiket);
-    }
+   //  for (let Tiket = 1; Tiket <= 8; Tiket++) {
+   //      console.log("Tiket Antrean No: " + Tiket);
+   //  }
      
   // SOAL LOOP NO 2
     // const hitungMundur = [];

@@ -88,12 +88,12 @@ export default function Fungsi() {
 // console.log(hasil);
 
 // soal nomer 10
-const formatNamaLengkap = (...rest) => {
-  let [depan, belakang] = rest;
-  return `${depan} ${belakang}`;
-};
+// const formatNamaLengkap = (...rest) => {
+//   let [depan, belakang] = rest;
+//   return `${depan} ${belakang}`;
+// };
 
-const hasil = formatNamaLengkap("Siti", "Aisyah");
+// const hasil = formatNamaLengkap("Siti", "Aisyah");
 
-console.log(hasil);
+// console.log(hasil);
 }
